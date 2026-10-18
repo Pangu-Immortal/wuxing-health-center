@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0e37QmjT9IYJx2+Zh0NUlF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "烘干机",
+      "rect": [
+        5,
+        2,
+        89,
+        84
+      ],
+      "offset": [
+        2.5,
+        -1
+      ],
+      "originalSize": [
+        94,
+        86
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

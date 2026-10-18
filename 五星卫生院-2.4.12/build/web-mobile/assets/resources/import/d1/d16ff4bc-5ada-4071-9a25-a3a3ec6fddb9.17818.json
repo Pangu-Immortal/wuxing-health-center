@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "73fRMkhe1EqYznCjoE4sQk"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "抹布",
+      "rect": [
+        0,
+        0,
+        51,
+        48
+      ],
+      "offset": [
+        0,
+        4
+      ],
+      "originalSize": [
+        51,
+        56
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

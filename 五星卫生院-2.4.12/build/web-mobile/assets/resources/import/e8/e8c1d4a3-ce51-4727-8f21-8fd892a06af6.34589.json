@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "16RIxi4RFIcL15bG+SAKJY"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "A30",
+      "rect": [
+        9,
+        0,
+        333,
+        242
+      ],
+      "offset": [
+        4.5,
+        0
+      ],
+      "originalSize": [
+        342,
+        242
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

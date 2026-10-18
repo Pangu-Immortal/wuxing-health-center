@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>五星卫生院 · 手机竖屏预览</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  html,body{margin:0;height:100%;background:#14121a;display:flex;align-items:center;justify-content:center;flex-direction:column;font-family:-apple-system,"PingFang SC",sans-serif}
+  .hint{color:#8a8494;font-size:13px;margin-bottom:10px;letter-spacing:1px}
+  .phone{position:relative;height:94vh;aspect-ratio:750/1334;border-radius:34px;border:6px solid #2c2836;box-shadow:0 0 0 2px #0a090d,0 24px 60px rgba(0,0,0,.6);overflow:hidden;background:#000}
+  .phone iframe{width:100%;height:100%;border:0;display:block}
+  .notch{position:absolute;top:8px;left:50%;transform:translateX(-50%);width:34%;height:18px;background:#0a090d;border-radius:10px;z-index:2;pointer-events:none}
+</style>
+</head>
+<body>
+  <div class="hint">五星卫生院 · 手机竖屏模拟（750×1334）· 点击画面即可操作</div>
+  <div class="phone">
+    <div class="notch"></div>
+    <iframe src="./index.html" allow="autoplay"></iframe>
+  </div>
+</body>
+</html>

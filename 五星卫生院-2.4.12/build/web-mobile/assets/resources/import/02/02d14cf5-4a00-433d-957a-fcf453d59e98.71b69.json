@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5bjyTUVuhNNpZoTmLAy/6R"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bay_3",
+      "rect": [
+        0,
+        2,
+        215,
+        220
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        215,
+        222
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

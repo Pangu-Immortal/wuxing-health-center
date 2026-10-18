@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "bf/szt621Mir9/JlBjUewy"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "熏香纸巾",
+      "rect": [
+        0,
+        0,
+        66,
+        69
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        66,
+        71
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

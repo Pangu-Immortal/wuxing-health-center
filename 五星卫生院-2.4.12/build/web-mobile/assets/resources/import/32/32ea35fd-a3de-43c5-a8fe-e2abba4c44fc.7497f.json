@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ecRkZgPaxEiZN5jU6IUy1U"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "staff_4",
+      "rect": [
+        0,
+        1,
+        194,
+        250
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        194,
+        251
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

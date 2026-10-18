@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "20ol2o1opNebrzG8wT9cFf"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "B5",
+      "rect": [
+        0,
+        0,
+        115,
+        69
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        116,
+        69
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

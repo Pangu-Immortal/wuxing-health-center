@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "feuorHrEFLhoz4ZWFaWXRQ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "墙污渍",
+      "rect": [
+        1,
+        0,
+        141,
+        191
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        142,
+        191
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

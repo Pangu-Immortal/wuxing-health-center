@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "78ub9AkMtD15dR6NbwbJAj"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "S26",
+      "rect": [
+        1,
+        0,
+        104,
+        72
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        105,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
