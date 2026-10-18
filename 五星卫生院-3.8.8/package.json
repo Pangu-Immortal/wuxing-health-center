@@ -1,0 +1,14 @@
+{
+  "name": "wuxing-hospital-3x",
+  "uuid": "c7900780-f932-4a03-841d-398356978566",
+  "creator": {
+    "version": "3.8.8",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "plugin-import-2x": "1.1.10",
+      "localization-editor": "1.0.4"
+    }
+  }
+}
